@@ -1,2 +1,8 @@
 # hello_world
-some testing
+
+## This is a test project
+
+I am
+* doing some testing
+* playing around
+* wasting time
