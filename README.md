@@ -2,7 +2,7 @@
 
 ## This is a test project
 
-### Really basic stuf..
+### Really basic stuf...
 
 I am
 * doing some testing
